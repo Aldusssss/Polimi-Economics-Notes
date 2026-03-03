@@ -13,7 +13,7 @@ Economic subjects (shareholders, stakeholders)
 
 Corporate governance (General Meeting, Board of Directors, Board of Auditors)
 
-Governance models (traditional, dualistic, one-tier)
+	Governance models (traditional, dualistic, one-tier)
 
 2. Strategy and Business Organization
 Source Files: Lessons 1.4, 1.5-1.6
