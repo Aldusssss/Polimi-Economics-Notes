@@ -2,7 +2,7 @@
 📖 Course Content Structure
 The notes are organized into 5 main macro-areas, covering the fundamentals of business economics from corporate governance to investment evaluation. These notes are based on lectures from the first-year Computer Engineering course at Politecnico di Milano.
 
-1. The Firm and Corporate Governance
+🏢 01 — The Firm and Corporate Governance
 Source Files: Lessons 1.1, 1.2, 1.3
 
 Nature and definition of the firm (for-profit, non-profit, cooperative)
@@ -13,9 +13,9 @@ Economic subjects (shareholders, stakeholders)
 
 Corporate governance (General Meeting, Board of Directors, Board of Auditors)
 
-	Governance models (traditional, dualistic, one-tier)
+Governance models (traditional, dualistic, one-tier)
 
-2. Strategy and Business Organization
+🧭 02 — Strategy and Business Organization
 Source Files: Lessons 1.4, 1.5-1.6
 
 Business portfolio (focused, related, conglomerate)
@@ -30,7 +30,7 @@ Business processes and project management
 
 Organizational structures (functional vs. divisional)
 
-3. Financial Statements
+📊 03 — Financial Statements
 Source Files: Lessons 2.1-2.6
 
 Accounting principles (OIC, IAS/IFRS)
@@ -45,7 +45,7 @@ Cash Flow Statement
 
 Valuations (historical cost, fair value, depreciation)
 
-4. Financial Ratio Analysis
+📈 04 — Financial Ratio Analysis
 Source Files: Lessons 2.7-2.8
 
 ROE (Return on Equity)
@@ -58,11 +58,10 @@ Liquidity and solvency ratios
 
 The leverage formula: ROE = ROI + (D/E) × (ROI − R) × S
 
-5. Managerial Accounting and Investment Evaluation
+🧮 05 — Managerial Accounting and Investment Evaluation
 Source Files: Lessons 3.0-3.5, 4.0-4.7
 
 Costing:
-
 Cost classification (direct/indirect, fixed/variable, product/period)
 
 Direct costing vs. Full costing
@@ -72,7 +71,6 @@ Traditional techniques (Process, Job Order, Operation Costing)
 Activity-Based Costing (ABC)
 
 Investment Evaluation:
-
 Decision-making process
 
 Net Present Value (NPV)
