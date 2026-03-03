@@ -5,76 +5,76 @@ The notes are organized into 5 main macro-areas, covering the fundamentals of bu
 🏢 **01 — The Firm and Corporate Governance**
 Source Files: Lessons 1.1, 1.2, 1.3
 
-Nature and definition of the firm (for-profit, non-profit, cooperative)
+-Nature and definition of the firm (for-profit, non-profit, cooperative)
 
-Legal forms (partnerships vs. corporations)
+-Legal forms (partnerships vs. corporations)
 
-Economic subjects (shareholders, stakeholders)
+-Economic subjects (shareholders, stakeholders)
 
-Corporate governance (General Meeting, Board of Directors, Board of Auditors)
+-Corporate governance (General Meeting, Board of Directors, Board of Auditors)
 
-Governance models (traditional, dualistic, one-tier)
+-Governance models (traditional, dualistic, one-tier)
 
 🧭 **02 — Strategy and Business Organization**
 Source Files: Lessons 1.4, 1.5-1.6
 
-Business portfolio (focused, related, conglomerate)
+-Business portfolio (focused, related, conglomerate)
 
-Company boundaries and vertical integration
+-Company boundaries and vertical integration
 
-Make or buy and outsourcing
+-Make or buy and outsourcing
 
-Value chain (primary and support activities)
+-Value chain (primary and support activities)
 
-Business processes and project management
+-Business processes and project management
 
-Organizational structures (functional vs. divisional)
+-Organizational structures (functional vs. divisional)
 
 📊 **03 — Financial Statements**
 Source Files: Lessons 2.1-2.6
 
-Accounting principles (OIC, IAS/IFRS)
+-Accounting principles (OIC, IAS/IFRS)
 
-Accrual principle
+-Accrual principle
 
-Balance Sheet (assets, liabilities, equity)
+-Balance Sheet (assets, liabilities, equity)
 
-Income Statement (by nature and by destination)
+-Income Statement (by nature and by destination)
 
-Cash Flow Statement
+-Cash Flow Statement
 
-Valuations (historical cost, fair value, depreciation)
+-Valuations (historical cost, fair value, depreciation)
 
 📈 **04 — Financial Ratio Analysis**
 Source Files: Lessons 2.7-2.8
 
-ROE (Return on Equity)
+-ROE (Return on Equity)
 
-ROI (Return on Investment)
+-ROI (Return on Investment)
 
-Financial leverage and cost of debt (R)
+-Financial leverage and cost of debt (R)
 
-Liquidity and solvency ratios
+-Liquidity and solvency ratios
 
-The leverage formula: ROE = ROI + (D/E) × (ROI − R) × S
+-The leverage formula: ROE = ROI + (D/E) × (ROI − R) × S
 
 🧮 **05 — Managerial Accounting and Investment Evaluation**
 Source Files: Lessons 3.0-3.5, 4.0-4.7
 
-Costing:
+-Costing:
 Cost classification (direct/indirect, fixed/variable, product/period)
 
-Direct costing vs. Full costing
+-Direct costing vs. Full costing
 
-Traditional techniques (Process, Job Order, Operation Costing)
+-Traditional techniques (Process, Job Order, Operation Costing)
 
-Activity-Based Costing (ABC)
+-Activity-Based Costing (ABC)
 
-Investment Evaluation:
+-Investment Evaluation:
 Decision-making process
 
-Net Present Value (NPV)
+-Net Present Value (NPV)
 
-Financial and incremental logic
+-Financial and incremental logic
 
-IRR, Payback Period, Profitability Index
+-IRR, Payback Period, Profitability Index
