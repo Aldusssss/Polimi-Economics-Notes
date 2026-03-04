@@ -3,7 +3,7 @@
 The notes are organized into 5 main macro-areas, covering the fundamentals of business economics from corporate governance to investment evaluation. These notes are based on lectures from the first-year Computer Engineering course at Politecnico di Milano.
 
 🏢 **01 — The Firm and Corporate Governance**
-Source Files: Lessons 1.1, 1.2, 1.3
+Source Files: Lessons 1.0, 1.1, 1.2
 
 -Nature and definition of the firm (for-profit, non-profit, cooperative)
 
