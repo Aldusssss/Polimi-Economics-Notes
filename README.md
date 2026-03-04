@@ -8,6 +8,7 @@ The notes are organized into 5 main macro-areas, covering the fundamentals of bu
 <details>
 <summary>Main topics</summary>
 
+
 -Nature and definition of the firm (for-profit, non-profit, cooperative)
 
 -Legal forms (partnerships vs. corporations)
