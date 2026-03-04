@@ -2,8 +2,8 @@
 📖 Course Content Structure
 The notes are organized into 5 main macro-areas, covering the fundamentals of business economics from corporate governance to investment evaluation. These notes are based on lectures from the first-year Computer Engineering course at Politecnico di Milano.
 
-
-🏢 **[01 — The Firm and Corporate Governance](./Lessons-1)**
+<details>
+<summary>🏢 **[01 — The Firm and Corporate Governance](./Lessons-1)**</summary>
 Source Files: Lessons 1.0, 1.1, 1.2
 
 -Nature and definition of the firm (for-profit, non-profit, cooperative)
@@ -15,7 +15,7 @@ Source Files: Lessons 1.0, 1.1, 1.2
 -Corporate governance (General Meeting, Board of Directors, Board of Auditors)
 
 -Governance models (traditional, dualistic, one-tier)
-
+</details>
 🧭 **02 — Strategy and Business Organization**
 Source Files: Lessons 1.4, 1.5-1.6
 
