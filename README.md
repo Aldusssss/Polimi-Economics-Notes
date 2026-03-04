@@ -1,7 +1,7 @@
 # Polimi-Economics-Notes
 📖 Course Content Structure
 The notes are organized into 5 main macro-areas, covering the fundamentals of business economics from corporate governance to investment evaluation. These notes are based on lectures from the first-year Computer Engineering course at Politecnico di Milano.
-[📁 Nome Cartella](./lessons-1)
+[📁 Nome Cartella](./Lessons-1)
 
 
 🏢 **01 — The Firm and Corporate Governance**
