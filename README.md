@@ -6,7 +6,7 @@ The notes are organized into 5 main macro-areas, covering the fundamentals of bu
 
 
 🏢 **[01 — The Firm and Corporate Governance](./Lessons-1)**
-Lessons: 1.0, 1.1, 1.2, 1.3
+(1.0, 1.1, 1.2, 1.3)
 
 <details>
 <summary>Main topics</summary>
