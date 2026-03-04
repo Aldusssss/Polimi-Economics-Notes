@@ -27,9 +27,8 @@ The notes are organized into 5 main macro-areas, covering the fundamentals of bu
 
 ---
 
-## 🧭 **02 — Strategy and Business Organization**
-
-Source Files: Lessons 1.4, 1.5-1.6
+## 🧭 **[02 — Strategy and Business Organization](./Lessons-2)**
+(1.4, 1.5-1.6)
 
 <details>
 <summary>Main topics</summary>
@@ -51,9 +50,8 @@ Source Files: Lessons 1.4, 1.5-1.6
 
 ---
 
-## 📊 **03 — Financial Statements**
-
-Source Files: Lessons 2.1-2.6
+## 📊 **[03 — Financial Statements](./Lessons-3)**
+(2.1-2.6)
 
 <details>
 <summary>Main topics</summary>
@@ -74,9 +72,8 @@ Source Files: Lessons 2.1-2.6
 
 ---
 
-## 📈 **04 — Financial Ratio Analysis**
-
-Source Files: Lessons 2.7-2.8
+## 📈 **[04 — Financial Ratio Analysis](./Lessons-4)**
+(2.7-2.8)
 
 <details>
 <summary>Main topics</summary>
@@ -95,9 +92,8 @@ Source Files: Lessons 2.7-2.8
 
 ---
 
-## 🧮 **05 — Managerial Accounting and Investment Evaluation**
-
-Source Files: Lessons 3.0-3.5, 4.0-4.7
+## 🧮 **[05 — Managerial Accounting and Investment Evaluation](./Lessons-5)**
+(3.0-3.5, 4.0-4.7)
 
 <details>
 <summary>Main topics</summary>
